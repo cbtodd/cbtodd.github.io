@@ -10,6 +10,9 @@ td {
     padding-left:15px;
     padding-right:15px;
 }
+a:hover {
+    color:lightblue;
+}
 html {
     background-color:darkslategrey;
     color:white;
