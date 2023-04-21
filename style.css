@@ -1,8 +1,20 @@
-﻿body {
+body {
     text-align: center;
     font-family: 'Liberation Serif',serif;
+    max-width:600px;
+    margin:auto;
+}
+p {
+    display: inline;
 }
 
+ul {
+    list-style:none;
+    display:inline;
+}
+li {
+    padding-bottom: 10px;
+}
 table {
     display: inline;
 }
@@ -24,4 +36,7 @@ a {
 }
 h1 {
     font-size:250%;
+}
+h2 {
+    text-decoration:underline;
 }
